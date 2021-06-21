@@ -86,8 +86,9 @@ Servo5.write(0);
 
 ### 2-servo motor rotate 90 degrees and back to 0 degree after 3 sec .[see here ](https://www.tinkercad.com/things/gbPPDKDpC4S-task-12-servo-motor-0-90/editel?sharecode=F5nGzvf_Q4hBc8hK6pDw1buUxTyYmv8P1hEopJZUgGc)
 ![1](https://user-images.githubusercontent.com/64277741/122786121-a5116f80-d2bc-11eb-9a95-e5d2b8a3b9ab.PNG)
+					Figure (1): Servo Motor at initial value (0 degree)
 after 3 sec ![1 2](https://user-images.githubusercontent.com/64277741/122786155-ae9ad780-d2bc-11eb-8f7c-c81f11a682b0.PNG)
-
+					Figure (2): Servo Motor at 90 degrees
 afrer 6 sec back to 0 ![1](https://user-images.githubusercontent.com/64277741/122786121-a5116f80-d2bc-11eb-9a95-e5d2b8a3b9ab.PNG)
 #### The code 
 `#include <Servo.h> 
@@ -221,7 +222,3 @@ delay(25);
 
 }
 `_
-
-
-
-
