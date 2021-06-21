@@ -5,6 +5,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
 * [Components required](#Components-required)
+* [Connections](#Connections)
 * [Block diagram & simulation ](#Block-diagram-&-simulation)
 
 
@@ -29,6 +30,16 @@ Project is created with:
 5. Battrey  5 volt
 6. Breadboard
 
+## Connections
+Connection pins:
+
+-5V:  Power (red)
+
+-Gnd: Ground (black)
+
+-13,10,7,5,3 : Digital Signals (orange, yellow, green, blue, purple)
+
+-A0,A1,A2,A3,A4 : Analog Signals (violet, brown, grey, cyan,pink)
 ## Block diagram & simulation
 ### 1-servo motor rotate 90 degrees . [see here](https://www.tinkercad.com/things/gbEAiV1jBww-task-12-/editel?sharecode=BJKBPih72RmLoE9rHIyFUbfSYzqZ60Z83fKnogQJ0Lg)
 
